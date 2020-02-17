@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="camunda-slb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="camunda-slb-1.0.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="camunda-slb:war exploded" />
+    </root>
+  </artifact>
+</component>
